@@ -1,0 +1,16 @@
+C:\MY Csharp project\Employee Managment system\Employee Managment system\bin\Debug\Employee Managment system.exe
+C:\MY Csharp project\Employee Managment system\Employee Managment system\bin\Debug\Employee Managment system.exe.config
+C:\MY Csharp project\Employee Managment system\Employee Managment system\obj\Debug\Employee Managment system.csproj.AssemblyReference.cache
+C:\MY Csharp project\Employee Managment system\Employee Managment system\obj\Debug\Employee_Managment_system.Employeefrom.resources
+C:\MY Csharp project\Employee Managment system\Employee Managment system\obj\Debug\Employee_Managment_system.Form1.resources
+C:\MY Csharp project\Employee Managment system\Employee Managment system\obj\Debug\Employee_Managment_system.home.resources
+C:\MY Csharp project\Employee Managment system\Employee Managment system\obj\Debug\Employee_Managment_system.loginfrom.resources
+C:\MY Csharp project\Employee Managment system\Employee Managment system\obj\Debug\Employee_Managment_system.Properties.Resources.resources
+C:\MY Csharp project\Employee Managment system\Employee Managment system\obj\Debug\Employee_Managment_system.Registerform.resources
+C:\MY Csharp project\Employee Managment system\Employee Managment system\obj\Debug\Employee Managment system.csproj.GenerateResource.cache
+C:\MY Csharp project\Employee Managment system\Employee Managment system\obj\Debug\Employee Managment system.csproj.CoreCompileInputs.cache
+C:\MY Csharp project\Employee Managment system\Employee Managment system\obj\Debug\Employee Managment system.exe
+C:\MY Csharp project\Employee Managment system\Employee Managment system\obj\Debug\Employee Managment system.pdb
+C:\MY Csharp project\Employee Managment system\Employee Managment system\bin\Debug\Employee Managment system.pdb
+C:\MY Csharp project\Employee Managment system\Employee Managment system\obj\Debug\Employee_Managment_system.Details.resources
+C:\MY Csharp project\Employee Managment system\Employee Managment system\obj\Debug\Employee_Managment_system.Salary.resources
